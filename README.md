@@ -3,7 +3,7 @@
 <body>
     <h1>- Desenvolvimento Web  - </h1>
     <p>O presente trabalho tem por objetivo a construção de um site para agendamento de consultas com um(a) Fisioterapeuta.</p>
-<img src="C:\Users\bianc\Pictures\Screenshots\Captura de tela 2023-11-06 235042.png">
+!C:\Users\bianc\Pictures\Screenshots\Captura de tela 2023-11-06 235042.png
 
 
 
